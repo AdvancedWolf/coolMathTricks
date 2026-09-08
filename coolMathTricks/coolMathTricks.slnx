@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="coolMathTricks/coolMathTricks.vcxproj" />
+  <Project Path="coolMathTricks/coolMathTricks.vcxproj" Id="566200e7-b88f-4a35-99d2-8d731ee66c92" />
 </Solution>

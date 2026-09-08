@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\random_projects\\coolMathTricks\\coolMathTricks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{566200E7-B88F-4A35-99D2-8D731EE66C92}|coolMathTricks\\coolMathTricks.vcxproj|C:\\random_projects\\coolMathTricks\\coolMathTricks\\coolMathTricks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{566200E7-B88F-4A35-99D2-8D731EE66C92}|coolMathTricks\\coolMathTricks.vcxproj|solutionrelative:coolMathTricks\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\random_projects\\coolMathTricks\\coolMathTricks\\coolMathTricks\\main.cpp",
+              "RelativeDocumentMoniker": "coolMathTricks\\main.cpp",
+              "ToolTip": "C:\\random_projects\\coolMathTricks\\coolMathTricks\\coolMathTricks\\main.cpp",
+              "RelativeToolTip": "coolMathTricks\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-08T07:09:31.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
